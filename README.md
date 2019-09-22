@@ -8,3 +8,5 @@
 - [ ] 皮蛋瘦肉粥
 - [ ] 排骨豆豉蒸土豆
 - [ ] [海鲜粥](http://blog.sina.com.cn/s/blog_7ecad8dc0101jty5.html)
+- [x] 白灼虾
+- [x] 蒸茄子
