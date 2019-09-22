@@ -5,8 +5,9 @@
 - [x] 排骨莲藕汤
 - [x] [黄骨鱼粥](https://www.xiachufang.com/recipe/100020912/)
 - [x] 芋头
-- [ ] 皮蛋瘦肉粥
+- [x] 皮蛋瘦肉粥
 - [ ] 排骨豆豉蒸土豆
+- [x] 瘦肉蒸豆豉
 - [ ] [海鲜粥](http://blog.sina.com.cn/s/blog_7ecad8dc0101jty5.html)
 - [x] 白灼虾
 - [x] 蒸茄子
