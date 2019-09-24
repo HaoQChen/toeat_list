@@ -11,3 +11,5 @@
 - [ ] [海鲜粥](http://blog.sina.com.cn/s/blog_7ecad8dc0101jty5.html)
 - [x] 白灼虾
 - [x] 蒸茄子
+- [x] 鸡腿焖萝卜
+- [x] 鸡腿皮蛋粥
